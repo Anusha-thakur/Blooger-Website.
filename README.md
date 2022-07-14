@@ -1,2 +1,2 @@
 # Blooger-Website.
-This is a Blogging Website.
+This is a complete Blogging Website created using HTML, CSS & JavaScript
